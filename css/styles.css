@@ -1,0 +1,88 @@
+html{
+    background-color: lightblue;
+}
+
+.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgray;
+    /* height: 80px; */
+}
+.navbar li{
+    float: left;
+
+}
+.navbar li:hover{
+    background-color: lightgreen;
+}
+#profile{
+    border-radius: 50%;
+    padding: 5px;
+    margin: 0px;
+    width: 70px;
+    height: 70px;
+}
+.pages{
+    display: block;
+    color: blue;
+    text-decoration: none;
+    padding: 14px 16px;
+    overflow: hidden;
+}
+.nav{
+    margin-top: 17px;
+}
+#contact{
+    float: right;
+}
+.portrait{
+    padding: 15px;
+    float: right;
+    border-radius: 30%;
+}
+.right-pic{
+    display: inline;
+    float: right;
+    padding: 0px 20px;
+}
+.date{
+    display: inline;
+    float: right;
+}
+p{
+    margin: 1px;
+}
+hr{
+    background-color: transparent;
+    border-style: dotted none none;
+    height: 0px;
+    width: 20%;
+    border-top-color: grey;
+    border-top-width: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40%;
+}
+.description{
+    margin: 0;
+}
+r{
+    text-align: right;
+}
+.section{
+    margin: 0;
+    margin-left: 10px;
+}
+.projects{
+    border-spacing: 20px 0px;
+    ;
+}
+.tmarg{
+    margin-top: 0;
+}
+.stacks{
+    object-fit: contain;
+    width: 100%;
+}
