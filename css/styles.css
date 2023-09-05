@@ -86,3 +86,9 @@ r{
     object-fit: contain;
     width: 100%;
 }
+.content{
+    font-size: 30px;
+    color: rgb(130, 130, 130);
+    font-family: 'Caveat', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
